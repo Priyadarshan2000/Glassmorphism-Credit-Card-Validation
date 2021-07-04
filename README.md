@@ -1,5 +1,4 @@
-# Glassmorphism-Credit-Card-Validation
-**This is a Glassmorphism Credit Card Validation Site this is Develop using Html,css,js and help of some svg**
+**This is a Glassmorphism Credit Card Validation Site this is Develop using Html,CSS, js and the help of some SVG**
 
 ## UI 
 ![image](https://user-images.githubusercontent.com/62868878/124393267-4c5bc100-dd17-11eb-9ea8-5c5336af4f8a.png)
